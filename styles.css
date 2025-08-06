@@ -22,6 +22,7 @@ body{
     justify-content: space-between;
     background-color: grey;
     color: black;
+    z-index: 100;
 }
 
 #menu-icon{
